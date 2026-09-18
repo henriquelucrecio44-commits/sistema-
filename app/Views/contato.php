@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="<?= base_url('assets/css/estilo.css') ?>">
 </head>
 <body>
- <h1><?= $contato['Titulo'] ?></h1>
-     <p><?= $contato['Texto'] ?></p>
+ <h1><?= $conteudo['Titulo'] ?></h1>
+     <p><?= $conteudo['Texto'] ?></p>
 
 </body>
 </html>

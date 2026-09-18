@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>pagina Henrique</title>
+    <link rel="stylesheet" href="<?= base_url('assets/css/estilo.css') ?>">
 </head>
 <body>
     <h1 align="center">Página Inicial do Site do Henrique </h1>
