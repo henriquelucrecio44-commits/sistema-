@@ -9,4 +9,4 @@ $routes->get('/contato','ConteudoController::contato');
 $routes->get('/quemsou','ConteudoController::quemsou');
 $routes->get('/produtos','ConteudoController::produtos');
 $routes->get('/habilidade','ConteudoController::habilidade');
-$routes->get('/Falecomigo','ConteudoController::Falecomigo');
+$routes->get('/falecomigo','ConteudoController::Falecomigo');
